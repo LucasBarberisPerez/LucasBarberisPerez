@@ -1,6 +1,6 @@
-### Hey, i'm Lucas Barberis 👋
+### Hey, i'm Lucas 👋
 ## Sofware Developer
-Recently graduated in web development, actually focusing in frontend technologies.
+Graduated in web development, mainly know about frontend but right now focusing in my transition to backend technologies.
 
 if you want to know more, here is my [Portfolio](https://lucasbarberisperez.github.io/portfolio/).
 ## My stack
@@ -17,5 +17,6 @@ if you want to know more, here is my [Portfolio](https://lucasbarberisperez.gith
 ### Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
