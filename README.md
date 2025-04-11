@@ -1,8 +1,7 @@
 ### Hey, i'm Lucas 👋
 ## Sofware Developer
-Graduated in web development, mainly know about frontend but right now focusing in my transition to backend technologies.
-
-if you want to know more, here is my [Portfolio](https://lucasbarberisperez.github.io/portfolio/).
+With experience making simple applications to know how it works, mainly focusing backend right now, but i got knowledge in frontend too.
+if you want to know more about me, here is my [Portfolio](https://lucasbarberisperez.github.io/portfolio/).
 ## My stack
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
