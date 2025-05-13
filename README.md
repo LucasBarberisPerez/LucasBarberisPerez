@@ -1,7 +1,7 @@
 ### Hey, i'm Lucas 👋
 ## Sofware Developer
 With experience making simple applications to know how it works, mainly focusing backend right now, but i got knowledge in frontend too.
-if you want to know more about me, here is my [Portfolio](https://lucasbarberisperez.github.io/portfolio/).
+if you want to know more about me, here is my [Portfolio](https://lucasbarberisperez.github.io/).
 ## My stack
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
