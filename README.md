@@ -1,5 +1,5 @@
 ### Hey, i'm Lucas 👋
-## Sofware Developer
+## Software Developer
 With experience making simple applications to know how it works, mainly focusing backend right now, but i got knowledge in frontend too.
 if you want to know more about me, here is my [Portfolio](https://lucasbarberisperez.github.io/).
 ## My stack
